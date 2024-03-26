@@ -7,7 +7,7 @@ I'm Byron, a seasoned Senior Software Engineering Professional based in San Fran
 ### 🌐 Connect with me:
 
 - Email: [bfwarner@gmail.com](mailto:bfwarner@gmail.com)
-- LinkedIn: [(https://www.linkedin.com/in/byronwarner/](https://www.linkedin.com/in/byronwarner/)
+- LinkedIn: [https://www.linkedin.com/in/byronwarner/](https://www.linkedin.com/in/byronwarner/)
 
 ### 📖 About Me
 
